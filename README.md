@@ -55,4 +55,4 @@ Udonstory is the application that shares real information between neighbors base
     
 ### tool
 
-MIT App-inventor & android studio for icon and screen design 
+**MIT App-inventor** & **android studio for icon and screen design** 
