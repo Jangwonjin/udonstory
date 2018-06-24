@@ -5,4 +5,4 @@ Udonstory is the application that shares real information between neighbors base
 
 **Main logo**
 
-![logo](/image/photo_11.jpg)
+![logo](/image/photo_11.JPG)
