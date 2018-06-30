@@ -46,7 +46,7 @@ Udonstory is the application that shares real information between neighbors base
 
 - Select the warm tone colors
 
-### What is the strength..
+### What is the strength..(compare with other apps)
 
 - network based on apartment complex
   - exact physical boundary
@@ -71,3 +71,9 @@ Udonstory is the application that shares real information between neighbors base
 ### tool
 
 **MIT App-inventor** & **android studio for icon and screen design** 
+
+
+### Conclusion(how I felt that....)
+Maintenance work is also important when we make the application. But, I am sorry to miss that parts.
+I think it would be good to make up the functional part a bit more.
+Most of all, it seemed to be the best experience to have worked with other major students.
