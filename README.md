@@ -7,6 +7,13 @@ Udonstory is the application that shares real information between neighbors base
 
 ![logo](/image/photo_11.JPG)
 
+### Character design
+![Udon](/image/photo_8.JPG)
+
+- Offer friendlyness
+- Refer the preference of illustraion : age 10-20 vs age 30-40
+- Act as a fun element
+
 ### market research
 
 * original online community
@@ -34,7 +41,12 @@ Udonstory is the application that shares real information between neighbors base
 
 [Udonstory-This is the private repository](https://github.com/udonstory)
 
-### what is the strength..
+### Main color
+![color](/image/color.png)
+
+- Select the warm tone colors
+
+### What is the strength..
 
 - network based on apartment complex
   - exact physical boundary
@@ -52,6 +64,9 @@ Udonstory is the application that shares real information between neighbors base
   - viral marketing
   - use the CPI(Consumer Price Index)
     - people can add the product to wishlist
+    
+### video clip
+[Watch the video](https://www.youtube.com/watch?v=f02bA4Q4HMM)
     
 ### tool
 
