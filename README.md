@@ -74,6 +74,8 @@ Udonstory is the application that shares real information between neighbors base
 
 
 ### Conclusion(how I felt that....)
-Maintenance work is also important when we make the application. But, I am sorry to miss that parts.
+Maintenance work is also important when we make the application. 
+
+But, I am sorry to miss that parts.
 I think it would be good to make up the functional part a bit more.
 Most of all, it seemed to be the best experience to have worked with other major students.
